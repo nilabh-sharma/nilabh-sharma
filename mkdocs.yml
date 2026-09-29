@@ -1,0 +1,73 @@
+site_name: Nilabh Sharma — Data, AI & Delivery
+site_description: AI explained in the language of pipelines, tables and SLAs.
+site_author: Nilabh Sharma
+# site_url: https://<your-github-username>.github.io/
+# repo_url: https://github.com/<your-github-username>/<your-github-username>.github.io
+
+theme:
+  name: material
+  language: en
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - navigation.footer
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+    - content.code.annotate
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: teal
+      toggle: {icon: material/weather-night, name: Switch to dark mode}
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: teal
+      toggle: {icon: material/weather-sunny, name: Switch to light mode}
+  icon:
+    logo: material/pipe
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - tables
+  - attr_list
+  - md_in_html
+  - toc:
+      permalink: true
+
+nav:
+  - Home: index.md
+  - My Journey: journey.md
+  - Foundations:
+      - LLMs for data engineers: foundations/llms.md
+      - RAG is just ETL with a new sink: foundations/rag.md
+  - Agents:
+      - Agents as non-deterministic DAGs: agents/overview.md
+      - Building my first Claude agent: agents/first-agent.md
+  - Delivery:
+      - Managing AI projects: delivery/pm.md
+  - About: about.md
+
+extra_css:
+  - stylesheets/extra.css
+
+copyright: © 2026 Nilabh Sharma
+
+extra:
+  social:
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/nilabhsharma

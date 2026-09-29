@@ -1,0 +1,2 @@
+mkdocs>=1.6,<2.0   # MkDocs 2.0 is not compatible with Material; keep on 1.x
+mkdocs-material>=9.5
