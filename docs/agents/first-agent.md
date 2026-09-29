@@ -1,7 +1,5 @@
 # Building my first Claude agent
 
-!!! info "Build log — publishing in Sprint 4"
-
 ## The use case
 
 An agent that **profiles a Databricks table and drafts data-quality rules**:
