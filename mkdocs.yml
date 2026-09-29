@@ -61,7 +61,7 @@ nav:
   - Delivery:
       - Managing AI projects: delivery/pm.md
   - About: about.md
-  - Projects: projects.md
+  - Project Management Artifacts/Templates: PMArtifacts.md
 
 extra_css:
   - stylesheets/extra.css
