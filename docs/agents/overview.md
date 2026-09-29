@@ -1,6 +1,5 @@
 # Agents as non-deterministic DAGs
 
-!!! info "Draft — publishing in Sprint 3"
 
 ## Outline
 
