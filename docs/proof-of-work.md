@@ -65,7 +65,7 @@ Delivering 50 customer insight attributes for Customer Journey Analytics on Data
     - **Attribute tracker:** all 50 attributes, from definition to UAT sign-off
     - **Milestones & RAID log:** gates, risks, assumptions and dependencies
 
-    [Download the plan (.xlsx)](https://github.com/nilabh-sharma/PM_Templates/blob/main/CJA_Customer_Insight_Views_Project_Plan_NS.xlsx){ .md-button }
+    [Download the plan (.xlsx)](https://github.com/nilabh-sharma/PM_Templates/raw/main/CJA_Customer_Insight_Views_Project_Plan_NS.xlsx){ .md-button }
 
 </div>
 
