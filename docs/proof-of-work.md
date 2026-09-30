@@ -18,7 +18,7 @@ Artifacts from a five-year programme that retired 500+ legacy applications.
 
     Monthly steering committee template: overall RAG, delivery and savings KPIs, wave pipeline, risks and decisions needed.
 
-    [Download sample monthly slide (.ppt)](https://github.com/nilabh-sharma/PM_Templates/raw/main/AMS_Decommissioning_May2021.ppt){ .md-button }
+    [Download sample monthly slide (.ppt)](https://github.com/nilabh-sharma/PM_Templates/raw/main/AMS_Decommissioning_May2021.pptx){ .md-button }
 
 </div>
 
