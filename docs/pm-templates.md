@@ -12,13 +12,13 @@ Artifacts from a five-year programme that retired 500+ legacy applications.
 
     The analysis-phase workbook: one row per application, capturing owner, usage, cost, business capability, data retention needs and the retire / archive / retain decision.
 
-  [Download App Inventory and IT portfolio analysis template (.xlsx)](https://github.com/nilabh-sharma/PM_Templates/raw/main/XXXXX_Application_Inventory_Template_decommission.xlsx){ .md-button }
+    [Download app inventory and IT portfolio analysis template (.xlsx)](https://github.com/nilabh-sharma/PM_Templates/raw/main/XXXXX_Application_Inventory_Template_decommission.xlsx){ .md-button }
 
 - **Monthly Status Deck**
 
     Monthly steering committee template: overall RAG, delivery and savings KPIs, wave pipeline, risks and decisions needed.
 
-  [Download Sample monthly slide (.ppt)](https://github.com/nilabh-sharma/PM_Templates/raw/main/AMS_Decommissioning_May2021.ppt){ .md-button }
+    [Download sample monthly slide (.ppt)](https://github.com/nilabh-sharma/PM_Templates/raw/main/AMS_Decommissioning_May2021.ppt){ .md-button }
 
 </div>
 
@@ -32,11 +32,9 @@ A 90-day programme taking five delivery teams from AI awareness to AI agents in 
 
     Phased plan (enable, build, adopt), team rollout, success metrics and governance for GitHub Copilot, Glean and Databricks Genie.
 
-  [Download AI adoption plan template (.xlsx)](https://github.com/nilabh-sharma/AI-Plan-agent/raw/main/AI_ADOPTION_ROADMAP_TRACKER.xlsx){ .md-button }
+    [Download AI adoption plan template (.xlsx)](https://github.com/nilabh-sharma/AI-Plan-agent/raw/main/AI_ADOPTION_ROADMAP_TRACKER.xlsx){ .md-button }
 
 </div>
-
-
 
 ## Snowflake vs. AWS Redshift: a warehouse platform evaluation
 
@@ -46,11 +44,12 @@ Picking a cloud warehouse on feature lists is easy. Knowing what it will cost to
 
 - **Outcome**
 
-Snowflake was selected. Separating compute from storage, scaling without downtime and needing less tuning work gave it a lower estimated annual cost for the same workloads.
+    Snowflake was selected. Separating compute from storage, scaling without downtime and needing less tuning work gave it a lower estimated annual cost for the same workloads.
 
- [Download Snowflake vs AWS Redshift evaluation deck (.pptx)](https://github.com/nilabh-sharma/PM_Templates/raw/main/Snowflake%20%26%20AWS%20Redshift%20Evaluation_Comparison.pptx){ .md-button }
+    [Download Snowflake vs AWS Redshift evaluation deck (.pptx)](https://github.com/nilabh-sharma/PM_Templates/raw/main/Snowflake%20%26%20AWS%20Redshift%20Evaluation_Comparison.pptx){ .md-button }
 
 </div>
 
+---
 
 [All PM templates on GitHub](https://github.com/nilabh-sharma/PM_Templates){ .md-button }
