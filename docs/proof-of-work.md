@@ -51,6 +51,25 @@ A 90-day programme taking five delivery teams from AI awareness to AI agents in 
 
 </div>
 
+## Customer journey analytics: data delivery plan
+
+Delivering 50 customer insight attributes for Customer Journey Analytics on Databricks in eight weeks, with one attribute group dependent on a third-party data feed. The challenge was planning work that could not wait for requirements to be finished, and protecting the go-live date from a supplier I did not control.
+
+<div class="grid cards" markdown>
+- **Project Plan & Delivery Tracker**
+
+    An eight-week plan that runs requirements, data analysis, design and build in overlapping attribute batches, so work on well-understood attributes starts while others are still being defined.
+
+    - **Gantt:** phases, dependencies and gates, driven by a single start date
+    - **Third-party track:** the supplier feed as its own critical-path swimlane, with a week-4 fallback decision
+    - **Attribute tracker:** all 50 attributes, from definition to UAT sign-off
+    - **Milestones & RAID log:** gates, risks, assumptions and dependencies
+
+    [Download the plan (.xlsx)](https://github.com/nilabh-sharma/PM_Templates/blob/main/CJA_Customer_Insight_Views_Project_Plan_NS.xlsx){ .md-button }
+
+</div>
+
+
 ## Snowflake vs. AWS Redshift: a warehouse platform evaluation
 
 Picking a cloud warehouse on feature lists is easy. Knowing what it will cost to run and operate is the hard part. This evaluation puts the two platforms side by side on architecture, how much operational work each needs, and costed estimates for production, development and test, so the decision rests on total cost of ownership rather than list price.
