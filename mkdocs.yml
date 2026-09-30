@@ -61,7 +61,7 @@ nav:
   - Delivery:
       - Managing AI projects: delivery/pm.md
   - About: about.md
-  - Project Management Templates: pm-templates.md
+  - Proof of Work: pm-templates.md
 
 extra_css:
   - stylesheets/extra.css
