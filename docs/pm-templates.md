@@ -34,6 +34,21 @@ A 90-day programme taking five delivery teams from AI awareness to AI agents in 
 
     [Download AI adoption plan template (.xlsx)](https://github.com/nilabh-sharma/AI-Plan-agent/raw/main/AI_ADOPTION_ROADMAP_TRACKER.xlsx){ .md-button }
 
+ - **AI Agent Demo: Jira ticket to schema change**
+
+    A working agent that picks up a Jira ticket requesting a table change (DDL), makes the change, and updates the ticket with what it did, with no manual hand-offs between the steps.
+
+    1. Reads the ticket and works out the required schema change
+    2. Generates and applies the DDL update
+    3. Comments on the ticket with the change made
+    4. Moves the ticket to the next status
+
+    <video controls preload="metadata" style="width:100%; border-radius:8px;">
+      <source src="https://github.com/nilabh-sharma/AI-Plan-agent/raw/main/AI_AGENT_WORKING_DDL_UPDATE%20%281%29.mp4" type="video/mp4">
+    </video>
+
+    [Watch on GitHub](https://github.com/nilabh-sharma/AI-Plan-agent/raw/main/AI_AGENT_WORKING_DDL_UPDATE%20%281%29.mp4){ .md-button }
+
 </div>
 
 ## Snowflake vs. AWS Redshift: a warehouse platform evaluation
