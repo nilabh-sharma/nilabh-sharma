@@ -36,7 +36,7 @@ A 90-day programme taking five delivery teams from AI awareness to AI agents in 
 
 </div>
 
-</div>
+
 
 ## Snowflake vs. AWS Redshift: a warehouse platform evaluation
 
