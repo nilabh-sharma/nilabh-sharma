@@ -36,5 +36,21 @@ A 90-day programme taking five delivery teams from AI awareness to AI agents in 
 
 </div>
 
+</div>
+
+## Snowflake vs. AWS Redshift: a warehouse platform evaluation
+
+Picking a cloud warehouse on feature lists is easy. Knowing what it will cost to run and operate is the hard part. This evaluation puts the two platforms side by side on architecture, how much operational work each needs, and costed estimates for production, development and test, so the decision rests on total cost of ownership rather than list price.
+
+<div class="grid cards" markdown>
+
+- **Outcome**
+
+Snowflake was selected. Separating compute from storage, scaling without downtime and needing less tuning work gave it a lower estimated annual cost for the same workloads.
+
+ [Download deck (.pptx)](https://github.com/nilabh-sharma/PM_Templates/raw/main/Snowflake%20%26%20AWS%20Redshift%20Evaluation_Comparison.pptx){ .md-button }
+
+</div>
+
 
 [All PM templates on GitHub](https://github.com/nilabh-sharma/PM_Templates){ .md-button }
