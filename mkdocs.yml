@@ -62,6 +62,7 @@ nav:
       - Managing AI projects: delivery/pm.md
   - About: about.md
   - Proof of Work: proof-of-work.md
+  - Certifications: certifications.md
 
 extra_css:
   - stylesheets/extra.css
