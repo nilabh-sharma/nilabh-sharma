@@ -1,0 +1,22 @@
+/* ---------- Journey timeline ---------- */
+.timeline { position: relative; margin: 2rem 0 1rem; padding-left: 1.8rem; }
+.timeline::before {
+  content: ""; position: absolute; left: .45rem; top: .3rem; bottom: .3rem;
+  width: 2px; background: var(--md-default-fg-color--lightest);
+}
+.tl-item { position: relative; margin-bottom: 2.2rem; }
+.tl-item::before {
+  content: ""; position: absolute; left: -1.62rem; top: .35rem;
+  width: .8rem; height: .8rem; border-radius: 50%;
+  background: var(--md-default-bg-color); border: 3px solid var(--md-primary-fg-color);
+}
+.tl-item.now::before { background: var(--md-accent-fg-color); border-color: var(--md-accent-fg-color); }
+.tl-years { font-size: .7rem; font-weight: 700; letter-spacing: .06em; text-transform: uppercase;
+  color: var(--md-primary-fg-color); }
+.tl-item h3 { margin: .2rem 0 .1rem !important; }
+.tl-sub { color: var(--md-default-fg-color--light); font-size: .75rem; margin-bottom: .6rem; }
+.chips { display: flex; flex-wrap: wrap; gap: .35rem; margin: .4rem 0 .7rem; }
+.chip { font-size: .65rem; padding: .12rem .5rem; border-radius: 1rem;
+  border: 1px solid var(--md-default-fg-color--lighter); color: var(--md-default-fg-color--light); }
+.tl-lesson { border-left: 3px solid var(--md-accent-fg-color); padding: .3rem 0 .3rem .8rem;
+  margin-top: .6rem; font-style: italic; color: var(--md-default-fg-color--light); }
