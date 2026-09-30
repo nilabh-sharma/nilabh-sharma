@@ -22,4 +22,19 @@ Artifacts from a five-year programme that retired 500+ legacy applications.
 
 </div>
 
+## AI adoption strategy and planning
+
+A 90-day programme taking five delivery teams from AI awareness to AI agents in daily use.
+
+<div class="grid cards" markdown>
+
+- **90-Day AI Adoption Programme**
+
+    Phased plan (enable, build, adopt), team rollout, success metrics and governance for GitHub Copilot, Glean and Databricks Genie.
+
+  [:octicons-download-16: Download template (.xlsx)](https://github.com/nilabh-sharma/AI-Plan-agent/raw/main/AI_ADOPTION_ROADMAP_TRACKER.xlsx){ .md-button }
+
+</div>
+
+
 [:octicons-mark-github-16: All PM templates on GitHub](https://github.com/nilabh-sharma/PM_Templates){ .md-button }
